@@ -6,8 +6,8 @@ This Power BI project focuses on analyzing and visualizing digital wallet transa
 
 This overview covers key aspects of transaction and user behavior analysis, providing insights into various metrics. It includes tracking transaction totals, statuses, and trends over time. It also looks at user activity, such as who is spending the most and where, and what devices they use. The product and merchant performance sections analyze which products and merchants are performing best, while cashback and loyalty points show how rewards are influencing transactions. Additionally, the dashboard reviews payment methods, transaction fees, geographical trends, time-based patterns, and device usage to better understand how different factors affect transactions. This data helps businesses optimize their operations and improve customer experiences.
 
-![](Iamges/Digital_card_01.JPG)
-![](Iamges/Digital_card_02.JPG)
-![](Iamges/Digital_card_03.JPG)
-![](Iamges/Digital_card_04.JPG)
+![](Images/Digital_card_01.JPG)
+![](Images/Digital_card_02.JPG)
+![](Images/Digital_card_03.JPG)
+![](Images/Digital_card_04.JPG)
 
